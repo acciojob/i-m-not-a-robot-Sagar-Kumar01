@@ -4,7 +4,7 @@ let human = "You are a human. Congratulations!";
 let robot = "We can't verify you as a human. You selected the non-identical tiles.";
 
 let reset = document.getElementById("reset");
-let verify = document.getElementById("verify");
+let verify = document.getElementById("btn");
 let msg = document.getElementById("para");
 
 let img1 = document.querySelector(".img1");
